@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Environ</string>
+    <string name="heading">Safety Tips</string>\n\n
+    <string name="tips">Scale Back Car Use\n
+        1. Start cycling.\n
+2. Walk it out.\n
+        3. Pick public transportation.\n
+4. Come together.\n
+        5. Combine errands.\n
+        6. Shop virtually.\n
+        7. Telecommute.\n
+        8. Record your trips.\n\n
+    Reduce Food Waste \n
+    1. Use Less Food Packaging \n
+    2. Eat Locally \n
+        3. Shop With the Environment in Mind \n
+        4. Understand expiration dates.\n
+5. Learn to love leftovers.\n
+6. Create a compost pile.\n
+7. Take it home.\n
+8. Use a smaller plate.\n\n
+        Use Less Food Packaging\n
+        1. Carry your cups.\n
+2. Bulk up.\n
+3. Make it metal.\n
+4. Let loose.\n
+5. Go naked.\n
+6. Choose to reuse.\n
+7. Get crafty.\n
+8. Forego the forks.\n\n
+        Eat Locally \n
+        1. Grow a green thumb.\n
+2. Make it to the market.\n
+3. Join the community.\n
+4. Dine locally.\n
+5. Get into gardening.\n
+6. Savor the season.\n
+7. Make preservation your jam.\n
+8. Start small.\n
+    </string>
+    <string name="title_activity_maps">Map</string>
+</resources>
